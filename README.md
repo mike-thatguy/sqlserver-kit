@@ -187,6 +187,7 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
    - [Youtube Pragmatic Works Video](https://www.youtube.com/user/PragmaticWorks) (by Devin Knight and Manuel Quintana)
    - [TechEd SQL Server Videos](https://channel9.msdn.com/Search?term=sql%20server&lang-en=true)
    - [Build 2018 conference](http://sqlservercode.blogspot.ru/2018/05/azure-sql-data-warehouse-azure-sql.html)
+   - [New Stars of Data SQL Server Video](https://www.youtube.com/playlist?list=PLLq_tkpMFDU5ibrnqn6I8CZxZ2-zYWG9m)
  - Free Database Podcasts <a id="podcasts"></a>
    - [SQL Server Radio](http://www.sqlserverradio.com/) (by Guy Glantser and Matan Yungman)
    - [SQL Data Partners](http://sqldatapartners.com/podcast/) (by Carlos L Chacon, César Oviedo and Adrian Miranda)
@@ -277,12 +278,13 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
    - [VK.com #sqlcom](https://vk.com/sqlcom) (more than 3600 People, Russian)
    - [SQL Server User Group Meetings](https://www.mssqltips.com/sql-server-user-groups/)
    - [Russian SQL Server User Group](https://www.facebook.com/groups/144858492215825/) (900 People, Russian)
-   - [SQLcom.ru telegram chat](https://t.me/sqlcom) (1110 People, Russian)
+   - [SQLcom.ru telegram chat](https://t.me/sqlcom) (1900 People, Russian)
    - [PowerBI telegram chat](https://t.me/PBI_Rus) (295 People, Russian)
    - [PostgesSQL telegram chat](https://t.me/pgsql) (2823 People, Russian)
    - [DBA telegram chat](https://t.me/dba_ru) (1389 People, Russian)
    - [SQLTeam SQL Server Forum](https://forums.sqlteam.com/)
    - [Red Gate SQL Server Forum](https://forum.red-gate.com/)
+   - [Microsoft SQL Server on Q&A](https://docs.microsoft.com/en-us/answers/products/sql-server)
  - SQL Server Conferences <a id="conference"></a>
    - [SQL Saturdays](https://sqlsaturday.com/)
    - [Pass Sumit](https://www.pass.org/AttendanEvent/Conferences/PASSSummit.aspx)
@@ -378,7 +380,8 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
     - [SQL-Server-Multi-Thread - a framework to do multi-threading in T-SQL using SQL Server Agent jobs.](https://github.com/jobbish-sql/SQL-Server-Multi-Thread) (by )
     - [SQL Server and Azure SQL Labs and Workshops](https://microsoft.github.io/sqlworkshops/) (by Microsoft)
     - [MsSqlDependencyBrowser - Simple tool to browse between dependent objects on MS SQL Server](https://github.com/usharik/MsSqlDependencyBrowser) (by Aleksej Usharovskij)
-    - [Projects-MS-SQL-Server-DBA - Utilities and Scripts for SQL Server dba](https://github.com/jobgemws/Projects-MS-SQL-Server-DBA) (by Evgeniy Gribkov)
+    - [`Projects-MS-SQL-Server-DBA` - Utilities and Scripts for SQL Server dba](https://github.com/jobgemws/Projects-MS-SQL-Server-DBA) (by Evgeniy Gribkov)
+    - [`sp_alter_column` stored procedure is able to alter a column with dependencies](https://github.com/segovoni/sp_alter_column) (by Sergio Govoni)
  - Other
     - [SQL# SQLCLR functions](https://sqlsharp.com/) (by Sql Quantum Lift)
     - [SQL Server Latch Classes Library](https://www.sqlskills.com/help/latches/) (by Paul S. Randal)
@@ -431,6 +434,7 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
     - [Hermitage: Testing transaction isolation levels in relation databases](https://github.com/ept/hermitage) (by Martin Kleppmann)
     - [csv to INSERT online converter - translates your tab-delimited data into a T-SQL INSERT statement](https://table.strd.co/) (by Structured Concepts AB)
     - [SQL Server Diagrams](http://www.e-squillace.com/techdiagrams-sqlserver/) (by George Squillace)
+    - [New Stars of Data 2020 Presentations](https://github.com/SQLGrillen/NSOD-1) (by SQLGrillen)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -578,6 +582,7 @@ SQL Server:
  - [Snowflake for SQL Server Users Part 1 – Core Concepts](https://sqldownunder.blob.core.windows.net/public/SnowflakeForSQLServerUsers_Part_1_CoreConcepts%20-%20for%20SDU%20Insiders.pdf) (by Dr Greg Low)
  - [The Fundamental Guide To Sql Query Optimization](https://www.quest.com/whitepapert/the-fundamental-guide-to-sql-query-optimization8143740/) (by Janis Griffin)
  - [An Expert Guide To Sql Server Performance Tuning](https://www.quest.com/whitepaper/an-expert-guide-to-sql-server-performance-tuning8143874/) (by Brent Ozar, Pinal Dave, Janis Griffin)
+ - [Microsoft® SQL Server® Notes for Professionals book](https://books.goalkicker.com/MicrosoftSQLServerBook/) (by GoalKicker Books)
  
 R:
  - [BookDown - Write HTML, PDF, ePub, and Kindle books with R Markdown](https://bookdown.org)
